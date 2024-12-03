@@ -68,5 +68,4 @@ endmodule
 ![Screenshot 2024-12-03 231303](https://github.com/user-attachments/assets/3382581e-37b8-482e-9f40-cdd0228bfb93)
 
 **RESULTS**
-    
-    SR flipflop using verilog and validating their functionality using their functional tables are verified.
+SR flipflop using verilog and validating their functionality using their functional tables are verified.
